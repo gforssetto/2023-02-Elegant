@@ -17,6 +17,7 @@ html {
 
 a {
     text-decoration: none;
+    transition: .4s;
 }
 
 h6 {
