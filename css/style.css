@@ -266,7 +266,7 @@ img {
 
     /* tertemonials  */
     .testemonials {
-        background-image: url("img/pic-18.jpg");
+        background-image: url("../img/pic-18.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
